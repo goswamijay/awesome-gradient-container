@@ -1,6 +1,6 @@
-name: awesomegradientcontainer
+name: awesome_gradient_container
 description: AwesomeGradientContainer simplifies the creation of customizable gradient containers in Flutter with ease.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/goswamijay/awesome-gradient-container
 
 environment:
